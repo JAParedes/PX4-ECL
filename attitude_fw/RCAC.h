@@ -7,7 +7,8 @@
 // #include "Eigen/Sparse"
 // #include <iostream>
 
-using namespace matrix;
+//using namespace matrix;
+using matrix::eye;
 // using namespace std;
 /**
  * The parent RCAC class. This class handles all the low level computation of RCAC
